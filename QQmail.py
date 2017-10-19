@@ -55,3 +55,5 @@ if __name__ == '__main__':
     login = QQMail(QQnum, password, url)
     login.Login()
 # https://ui.ptlogin2.qq.com/cgi-bin/login?style=9&appid=522005705&daid=4&s_url=https%3A%2F%2Fw.mail.qq.com
+
+#https://ssl.ptlogin2.mail.qq.com/check_sig?pttype=1&uin=295948589&service=login&nodirect=0&ptsigx=cdaf2050fd5880083d71d6c693d5d8fd1ec9313dd053b391a5ef96ee7082ec652703a8216a40681cccd09071f8e09de78ab5644a5a66e598ae519d2c13d606c0&s_url=https%3A%2F%2Fmail.qq.com%2Fcgi-bin%2Flogin%3Fvt%3Dpassport%26vm%3Dwpt%26ft%3Dloginpage%26target%3D%26account%3D295948589&f_url=&ptlang=2052&ptredirect=101&aid=522005705&daid=4&j_later=0&low_login_hour=0&regmaster=0&pt_login_type=1&pt_aid=0&pt_aaid=0&pt_light=0&pt_3rd_aid=0
